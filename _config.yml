@@ -15,8 +15,8 @@
 # in the templates via {{ site.myvariable }}.
 title: MTGSquad Docs
 description: A Documentation Center For MTGSquad's Projects.
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://docs.mtgsquad-dev.com" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/docs" # the subpath of your site, e.g. /blog
+url: "https://mtgsquad-dev.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: pretty
 exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"
