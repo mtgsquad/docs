@@ -6,7 +6,7 @@ description: "MTGSquad's Project Docs."
 permalink: /
 ---
 
-# Focus on writing good documentation
+# Welcome To MTGSquad's Documentation Center!
 {: .fs-9 }
 
 These Projects Are Copyrighted & Are Property Of MTGSquad, If You Are Using These, Please Give Credit.
