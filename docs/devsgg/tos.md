@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Terms Of Service
-parent: DevsGG
+parent: devsgg
 ---
 
 # Devs-GG
